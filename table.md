@@ -33,6 +33,6 @@
         </td>
        </tr>
     </table>
-    <a href="first.html">Reset page to main menu</a>
+    <a href="index.html">Reset page to main menu</a>
 </body>
 </html>
