@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" >
@@ -7,12 +6,12 @@
 <body>
     <img src="file:///C:/Users/agast/Documents/Wallpapers/14.jpg" alt="PICS">
     <h1>Agastya</h1>
-    <p> <i>Student of vit chennai</i> <br>
-        <em>Student of <strong>vit chennai</em></strong> <br>
-        <strong>Student of vit chennai</strong></p>
-        <p>I like playing basketball and football.</p>
-        <a href="school.html">About My school</a>
-        <p><a href="school2.html">About my School2</a></p>
+        <i>Student of vit chennai</i> <br>
+        <i>Student of <strong>vit chennai</i></strong> <br>
+        <strong>Student of vit chennai</strong> <br>
+        I like playing basketball and football.
+        <a href="school.html">About My school</a><br>
+        <a href="school2.html">About my School2</a>
         <a href="table.html">table</a>
         <hr size="3" noshade="">
         <ul><li>Hello</li>
