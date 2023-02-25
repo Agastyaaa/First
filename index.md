@@ -4,7 +4,7 @@
     <title>Agastya's Website</title>
 </head>
 <body>
-    <img src="file:///C:/Users/agast/Documents/Wallpapers/14.jpg" alt="PICS">
+    <img src="14.jpg" alt="PICS">
     <h1>Agastya</h1>
         <i>Student of vit chennai </i> <br>
         <i>Student of <strong>vit chennai </i></strong> <br>
