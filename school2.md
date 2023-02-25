@@ -12,6 +12,6 @@
         </tr>   
     </table>
     <hr size="3" noshade>
-    <a href="first.html">To go back to previous page</a>
+    <a href="index.html">To go back to previous page</a>
 </body>
 </html>
