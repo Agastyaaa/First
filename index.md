@@ -7,11 +7,11 @@
     <img src="14.jpg" alt="PICS">
     <h1>Agastya</h1>
         <i>Student of vit chennai </i> <br>
-        <i>Student of <strong>vit chennai </i></strong> <br>
+        <i>Student of <strong>vit chennai</strong> </i> <br>
         <strong>Student of vit chennai</strong> <br>
         I like playing basketball and football.<br>
         <a href="school.html">About My school</a><br>
-        <a href="school2.html">About my School2</a>
+        <a href="school2.html">About my School2</a><br>
         <a href="table.html">table</a>
         <hr size="3" noshade="">
         <ul><li>Hello</li>
