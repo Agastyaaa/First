@@ -16,6 +16,6 @@
         <label for="name">Review?</label><br>
         <textarea name="Your message" id="" cols="30" rows="10"></textarea>
     </form>
-    <a href="first.html">Go back to previous site</a>
+    <a href="index.html">Go back to previous site</a>
 </body>
 </html>
