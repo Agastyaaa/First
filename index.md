@@ -9,7 +9,7 @@
         <i>Student of vit chennai </i> <br>
         <i>Student of <strong>vit chennai </i></strong> <br>
         <strong>Student of vit chennai</strong> <br>
-        I like playing basketball and football.
+        I like playing basketball and football.<br>
         <a href="school.html">About My school</a><br>
         <a href="school2.html">About my School2</a>
         <a href="table.html">table</a>
