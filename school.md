@@ -9,6 +9,6 @@
     <h1>Education</h1>
     <p> <a href="https://bombayscottish.in/powai/home.php"> Bombay scottish Powai</a><br> <a href="https://bombayscottish.in/mahim/home.php">Bombay Scottish Mahim</a> </p>
     <hr size="3" noshade>
-    <a href="index.html">To go back to previous page</a>
+    <a href="index.md">To go back to previous page</a>
 </body>
 </html>
