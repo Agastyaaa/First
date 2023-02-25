@@ -5,9 +5,9 @@
 </head>
 <body>
     <form class="" action="mailto:agastya2429@gmail.com" method="post" enctype="text/plain">
-        <label for="name">Your name:</label>
+       <p><label for="name">Your name:</label>
         <input type="text" name="Your name">
-        <input type="submit">
+        <input type="submit"></p>
         <p><label for="name">Enter your password</label>
         <input type="password"></p>
         <p><label for="name">Enter your email</label>
