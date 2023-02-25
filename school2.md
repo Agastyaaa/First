@@ -7,7 +7,7 @@
 <body>
     <table cellspacing="60">
         <tr>
-            <td><img src="images/14.jpg" alt="pic"></td>
+            <td><img src="14.jpg" alt="pic"></td>
             <td><p><h1>Education</h1></p><p><p> <a href="https://bombayscottish.in/powai/home.php"> Bombay scottish Powai</a><br> <a href="https://bombayscottish.in/mahim/home.php">Bombay Scottish Mahim</a> </p></p></td>
         </tr>   
     </table>
