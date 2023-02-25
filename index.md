@@ -6,8 +6,8 @@
 <body>
     <img src="file:///C:/Users/agast/Documents/Wallpapers/14.jpg" alt="PICS">
     <h1>Agastya</h1>
-        <i>Student of vit chennai</i> <br>
-        <i>Student of <strong>vit chennai</i></strong> <br>
+        <i>Student of vit chennai </i> <br>
+        <i>Student of <strong>vit chennai </i></strong> <br>
         <strong>Student of vit chennai</strong> <br>
         I like playing basketball and football.
         <a href="school.html">About My school</a><br>
