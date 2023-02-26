@@ -4,7 +4,7 @@
     <title>Table</title>
 </head>
 <body>
-    <table cellspacing="10" border="1">
+    <table cellspacing="10">
        <tr>
         <td>
             <table cellspacing="15">
