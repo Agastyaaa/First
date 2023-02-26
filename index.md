@@ -26,7 +26,7 @@
         </ol>
         <hr size="3" noshade>
         <h3>Played sports in</h3>
-        <table border="1">
+        <table>
            <thead>
             <tr>
                 <th>
